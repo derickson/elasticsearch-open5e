@@ -1,11 +1,19 @@
 # elasticsearch-open5e
 Messing around with creative commons open5e json files
+Learn more about Open5e here [link](https://open5e.com/)
 
 Setup python environment
 ```
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
+```
+
+get the data in a sister project
+``` sh
+cd ..
+git clone https://github.com/open5e/open5e-api
+cd elasticsearch-open5e
 ```
 
 * Create your elasticsearch cluster

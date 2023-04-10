@@ -11,7 +11,7 @@ import dave_python_util as dutil
 #utility functions
 
 
-
+# in a sister project checkout this project 
 MONSTER_PATH = "../open5e-api/data/WOTC_5e_SRD_v5.1/monsters.json"
 
 
